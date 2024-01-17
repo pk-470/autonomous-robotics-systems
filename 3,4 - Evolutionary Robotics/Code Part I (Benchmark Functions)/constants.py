@@ -1,0 +1,7 @@
+GRID_MIN = -5
+GRID_MAX = 5
+
+OUTPUT_PATH = "animations_and_plots"
+
+MIN_DECAY_RATE = 0.01
+DECAY_RATE_DEC = 0.005
